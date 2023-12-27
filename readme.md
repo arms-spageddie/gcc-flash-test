@@ -1,7 +1,7 @@
 # Description
 
 This is a sample project which is meant to test the ARM GCC toolchain for memory usage. I believe there is a bug in ARM
-GCC since v11 which causes the flash memory usage to increase drastically.
+GCC since v10 which causes the flash memory usage to increase drastically.
 
 # Requirements
 
