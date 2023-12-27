@@ -51,6 +51,7 @@ target_link_options(
 
             LINKER:--gc-sections
             LINKER:--print-memory-usage
+            LINKER:-Map=${TARGET_NAME}.map
 )
 
 target_sources(
